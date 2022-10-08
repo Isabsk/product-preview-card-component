@@ -2,6 +2,8 @@
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
+[Live Demo Here](https://isabsk.github.io/product-preview-card-component/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
