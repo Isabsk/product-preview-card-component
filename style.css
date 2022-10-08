@@ -304,7 +304,7 @@ color: white
     background: hsl(30, 38%, 92%);
     }
     .container .image {
-    height: 440px;
+    height: 470px;
     width: 280px;
     background: url('images/image-product-desktop.jpg');
     background-size: cover;
@@ -312,7 +312,7 @@ color: white
     }
     .container .details {
     width: 280px;
-    height: 440px;
+    height: 470px;
     background: white;
     border-radius: 0 15px 15px 0;
     padding: 25px;
