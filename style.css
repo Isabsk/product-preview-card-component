@@ -304,15 +304,15 @@ color: white
     background: hsl(30, 38%, 92%);
     }
     .container .image {
-    height: 470px;
-    width: 280px;
+    height: 450px;
+    width: 300px;
     background: url('images/image-product-desktop.jpg');
     background-size: cover;
     border-radius: 15px 0 0 15px ;
     }
     .container .details {
-    width: 280px;
-    height: 470px;
+    width: 300px;
+    height: 450px;
     background: white;
     border-radius: 0 15px 15px 0;
     padding: 25px;
