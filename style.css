@@ -27,6 +27,7 @@ width: 340px;
 background: white;
 border-radius: 0 0 15px 15px;
 padding: 25px;
+font-family: "Montserrat" , serif ;
 }
 
 .details .span {
@@ -56,7 +57,7 @@ margin-bottom: 15px;
 font-size: 32px;
 font-weight: 800;
 color: #3d8266;
-font-family: "Montserrat" , serif ;
+font-family: "Fraunces" , serif ;
 margin: 8px 10px 8px 0;
 }
 
